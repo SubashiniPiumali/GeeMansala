@@ -1,0 +1,70 @@
+convert to uppercase
+
+name = "Hansana Pushpakumara"
+print(name.upper())
+
+lover
+print(name.lower())
+
+print(len(name))
+
+print 0 th character of name
+print(name[0])
+
+print the index of name
+print(name.index('a'))
+
+print(name.replace('Hansana','Himansana'))
+name2 = name.replace('Hansana','Himansana')
+name2
+
+print(10%3)
+
+convert int to string
+num = 5
+print(str(num))
+
+my_num = -5
+abs
+print(abs(my_num))
+
+power
+print(pow(2, 3))
+
+find the maximum value
+print(max(4, 8))
+find the min value
+print(min(4, 8))
+
+round the value
+print(round(5.5463))
+
+floor / ceil
+from math import *
+print(ceil(3.78))
+
+square root
+
+print(sqrt(36))
+
+user input
+name = input('Enter name')
+
+arrys
+friends = ['kevin','Karen','Jim']
+print(friends)
+0th element -> friends[0]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
